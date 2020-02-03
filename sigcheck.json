@@ -14,7 +14,7 @@
                     "sigcheck64.exe",
                     "sigcheck"
                 ],
-                "sigcheck64.exe",
+                "sigcheck64.exe"
             ]
         }
     }
