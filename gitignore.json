@@ -1,0 +1,7 @@
+{
+    "homepage": "https://docs.gitignore.io/install/command-line",
+    "description": "Fetches .gitignore file templates from gitignore.io and saves them to a .gitignore file",
+    "version": "1.0",
+    "url": "https://gist.githubusercontent.com/spookyUnknownUser/08c5a2410895081dafd67b7a2654e995/raw/767aa1c124ddeda4627177556173484a20596408/gitignore.ps1",
+    "bin": "gitignore.ps1"
+}
